@@ -1,0 +1,1 @@
+Java methods that wraps XMLRPC calls to OpenERP.
